@@ -1,0 +1,97 @@
+{
+  "posts": [
+    {
+      "postId": "123",
+      "agentRefId": "205434",
+      "category": {
+        "categoryId": "1",
+        "categoryName": "AEPS\nTransaction",
+        "categoryImage": "Test_link_1"
+      },
+      "media": [
+        {
+          "mediaURL": "https://deepikaartscolors.com/audio.mp3",
+          "mediaType": "audio",
+          "thumbnailUrl": "https://img.freepik.com/free-vector/music-audio-equalizer-poster_98292-2851.jpg?w=740&t=st=1685386071~exp=1685386671~hmac=079a5b63941993c0b3e8c185f37a545795112bd2a884b8fca8883a0efe628e1a"
+        }
+      ],
+      "caption": "AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum v v v vAEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum",
+      "shared": "false",
+      "feedViewed": "false",
+      "storyViewed": "false",
+      "liked": "false",
+      "storyViewedCount": 0,
+      "feedViewedCount": 0,
+      "likedCount": 0,
+      "sharedCount": 0,
+      "redirectionUrl": "",
+      "scheduledDate": "DateTime In IST",
+      "createdDate": "DateTime In IST",
+      "updatedDate": "DateTime In IST"
+    },
+    {
+      "postId": "124",
+      "agentRefId": "205434",
+      "category": {
+        "categoryId": "2",
+        "categoryName": "AEPS\nTransaction",
+        "categoryImage": "Test_link_1"
+      },
+      "media": [
+        {
+          "mediaURL": "https://deepikaartscolors.com/sample_video.mp4",
+          "mediaType": "video",
+          "thumbnailUrl": "https://static.toiimg.com/thumb/msid-85923851,width-400,resizemode-4/85923851.jpg"
+        }
+      ],
+      "caption": "AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum v v v vAEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum",
+      "shared": "false",
+      "feedViewed": "false",
+      "storyViewed": "false",
+      "liked": "false",
+      "storyViewedCount": 0,
+      "feedViewedCount": 0,
+      "likedCount": 0,
+      "sharedCount": 0,
+      "redirectionUrl": "",
+      "scheduledDate": "DateTime In IST",
+      "createdDate": "DateTime In IST",
+      "updatedDate": "DateTime In IST"
+    },
+    {
+      "postId": "125",
+      "agentRefId": "205434",
+      "category": {
+        "categoryId": "2",
+        "categoryName": "AEPS\nTransaction",
+        "categoryImage": "Test_link_1"
+      },
+      "media": [
+        {
+          "mediaURL": "https://deepikaartscolors.com/sample_video.mp4",
+          "mediaType": "video",
+          "thumbnailUrl": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/153928908/original/81d7d0ed8ab68a23af594d2b2ce19b84646f5d1f/do-fun-and-great-editing-and-poster-making-and-video-editing.jpg"
+        }
+      ],
+      "caption": "AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum v v v vAEPS lorem ipsum AEPS lorem ipsum AEPS lorem ipsum",
+      "shared": "false",
+      "feedViewed": "false",
+      "storyViewed": "false",
+      "liked": "false",
+      "storyViewedCount": 0,
+      "feedViewedCount": 0,
+      "likedCount": 0,
+      "sharedCount": 0,
+      "redirectionUrl": "",
+      "scheduledDate": "DateTime In IST",
+      "createdDate": "DateTime In IST",
+      "updatedDate": "DateTime In IST"
+    }
+    
+  ],
+  "totalPages": 10,
+  "rowsPerPage": 9,
+  "pageNo": 1,
+  "responseCode": "0",
+  "responseDesc": "Success"
+}
