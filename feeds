@@ -1,0 +1,99 @@
+{
+    "posts": [
+        {
+            "PostId": "5",
+            "AgentRefId": "201568",
+            "category": {
+                "categoryId": "1",
+                "categoryName": "Test category",
+                "categoryImage": "https://cdn-uat.paynearby.in/marketingtech/radio/images/Tiger.jpg"
+            },
+            "media": [
+                {
+                    "mediaURL": "https://cdn-uat.paynearby.in/marketingtech/radio/images/Tiger.jpg",
+                    "mediaType": "image",
+                    "thumbnailUrl": ""
+                }
+            ],
+            "caption": "Test Caption",
+            "shared": true,
+            "feedViewed": true,
+            "storyViewed": false,
+            "liked": false,
+            "storyViewedCount": 5,
+            "feedViewedCount": 10,
+            "likedCount": 0,
+            "sharedCount": 0,
+            "redirectionUrl": "",
+            "scheduledDate": "2023/06/05 08:10:00",
+            "createdDate": "2023/05/05 08:10:00",
+            "updatedDate": "2023/06/05 08:10:00"
+        },
+        
+        
+        {
+            "PostId": "6",
+            "AgentRefId": "201568",
+            "category": {
+                "categoryId": "1",
+                "categoryName": "AEPS category",
+                "categoryImage": "https://cdn-uat.paynearby.in/marketingtech/radio/images/Tiger.jpg"
+            },
+            "media": [
+                {
+                    "mediaURL": "https://deepikaartscolors.com/audio.mp3",
+                    "mediaType": "audio",
+                    "thumbnailUrl": "https://images.unsplash.com/photo-1677297680558-df5641e505ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8&w=1000&q=80"
+                }
+            ],
+            "caption": "A. Aadhaar Enabled Payment System (AEPS) is a payment service that allows a bank customer to use Aadhaar as his/her identity to access his/her Aadhaar enabled bank account and perform basic banking transactions like balance enquiry, cash withdrawal, remittances through a Business Correspondent.",
+            "shared": true,
+            "feedViewed": true,
+            "storyViewed": false,
+            "liked": false,
+            "storyViewedCount": 5,
+            "feedViewedCount": 10,
+            "likedCount": 0,
+            "sharedCount": 0,
+            "redirectionUrl": "",
+            "scheduledDate": "2023/06/05 08:10:00",
+            "createdDate": "2023/05/05 08:10:00",
+            "updatedDate": "2023/06/05 08:10:00"
+        },
+        
+        {
+            "PostId": "7",
+            "AgentRefId": "201568",
+            "category": {
+                "categoryId": "3",
+                "categoryName": "DMT category",
+                "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZizslvdl5NOgiayVG7nGZiklq277OEC68wg&usqp=CAU"
+            },
+            "media": [
+                {
+                    "mediaURL": "https://deepikaartscolors.com/sample_video.mp4",
+                    "mediaType": "video",
+                    "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJGs7py-nbYNIuk8yzQnC9xzkittm95yqMI_jdfMQ92vA-0h9q2EJ0FQidQDHQSvS-Fyw&usqp=CAU"
+                }
+            ],
+            "caption": "Test Caption",
+            "shared": true,
+            "feedViewed": true,
+            "storyViewed": false,
+            "liked": false,
+            "storyViewedCount": 5,
+            "feedViewedCount": 10,
+            "likedCount": 0,
+            "sharedCount": 0,
+            "redirectionUrl": "",
+            "scheduledDate": "2023/06/05 08:10:00",
+            "createdDate": "2023/05/05 08:10:00",
+            "updatedDate": "2023/06/05 08:10:00"
+        }
+    ],
+    "totalPages": 10,
+    "rowsPerPage": 9,
+    "pageNo": 1,
+    "responseCode": "0",
+    "responseDesc": "Success"
+}
