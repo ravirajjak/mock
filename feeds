@@ -1,8 +1,8 @@
 {
     "posts": [
         {
-            "PostId": "5",
-            "AgentRefId": "201568",
+            "postId": "5",
+            "agentRefId": "201568",
             "category": {
                 "categoryId": "1",
                 "categoryName": "Test category",
