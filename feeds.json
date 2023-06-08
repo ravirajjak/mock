@@ -32,8 +32,8 @@
       
       
       {
-          "PostId": "6",
-          "AgentRefId": "201568",
+          "postId": "6",
+          "agentRefId": "201568",
           "category": {
               "categoryId": "1",
               "categoryName": "AEPS category",
@@ -62,8 +62,8 @@
       },
       
       {
-          "PostId": "7",
-          "AgentRefId": "201568",
+          "postId": "7",
+          "agentRefId": "201568",
           "category": {
               "categoryId": "3",
               "categoryName": "DMT category",
