@@ -9,7 +9,7 @@
               "categoryImage": "https://cdn-uat.paynearby.in/marketingtech/radio/images/Tiger.jpg"
           },
           "media": [
-              {
+              {"mediaDemon":""
                   "mediaURL": "https://m.media-amazon.com/images/I/71Jxq2p5YWL._AC_UF894,1000_QL80_.jpg",
                   "mediaType": "image",
                   "thumbnailUrl": ""
