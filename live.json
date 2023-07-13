@@ -1,7 +1,7 @@
 {
     "todaysEvents": [
         {
-            "eventId":"1,
+            "eventId":"1",
             "eventName": "Test event",
             "eventDescription": "Test Category 030723_01",
             "platform": "Zoom",
@@ -14,7 +14,7 @@
     ],
       "futureEvents": [
         {
-            "eventId":"5,
+            "eventId":"5",
             "eventName": "Test event future",
             "eventDescription": "Test Category 030723_04",
             "platform": "Zoom",
