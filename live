@@ -1,0 +1,30 @@
+{
+    "todaysEvents": [
+        {
+            "eventId":"1,
+            "eventName": "Test event",
+            "eventDescription": "Test Category 030723_01",
+            "platform": "Zoom",
+            "mediaId": "253",
+            "mediaUrl": "https://cdn-uat.paynearby.in/marketingtech/radio/images/flowerNew.jpg",
+            "eventUrl": "Test platform url",
+            "startDate":"2023-06-10T06:18:00",
+            "endDate":"2023-06-10T07:18:00"
+        }
+    ],
+      "futureEvents": [
+        {
+            "eventId":"5,
+            "eventName": "Test event future",
+            "eventDescription": "Test Category 030723_04",
+            "platform": "Zoom",
+            "mediaId": "254",
+            "mediaUrl": "https://cdn-uat.paynearby.in/marketingtech/radio/images/flowerNew.jpg",
+            "eventUrl": "Test platform url",
+            "startDate":"2023-06-15T06:18:00",
+            "endDate":"2023-06-15T07:18:00"
+        }
+    ],
+    "responseCode": "0",
+    "responseDescription": "Success"
+}
