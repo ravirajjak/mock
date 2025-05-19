@@ -1,20 +1,44 @@
 {
-        "packages": [
-            {
-                "package_name": "Digital Nari",
-                "price": 550.0,
-                "special_price": 499.0,
-                "discount": 51.0,
-                "coupon_code": "A2A_Digital Nari",
-                "description": "Digital Nari"
-            },
-            {
-                "package_name": "Financial Services",
-                "price": 1000.0,
-                "special_price": 900.0,
-                "discount": 100.0,
-                "coupon_code": "A2A_Financial Services",
-                "description": "Banking Services"
-            }
-        ]
+  "result": {
+    "pan": "AAGCS9120G",
+    "name": "STATE BANK OF TRAVANCORE",
+    "firstName": "",
+    "middleName": "",
+    "lastName": "STATE BANK OF TRAVANCORE",
+    "gender": "",
+    "dob": "1960-01-01T00:00:00",
+    "address": {
+      "buildingName": "State Bank of India ",
+      "locality": "Local Head Office",
+      "streetName": "Poojappura",
+      "pinCode": "695012",
+      "city": "THIRUVANANTHAPURAM",
+      "state": "KERALA",
+      "country": "INDIA"
+    },
+    "aadhaarLinked": null,
+    "aadhaarMatch": null,
+    "authorizedSignatory": {
+      "pan": null,
+      "name": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "gender": null,
+      "aadhaarLinked": null,
+      "dob": null,
+      "mobileNo": null,
+      "emailId": null,
+      "address": null
+    },
+    "profileMatch": [
+      
+    ]
+  },
+  "transactionId": "14242819052025000100",
+  "kycId": "94de4dad3975988",
+  "responseDate": "2025-05-19T18:17:08.7530392+05:30",
+  "statusCode": 200,
+  "statusCodeDesc": "Ok - Request Completed",
+  "isAcceptableRecencyData": false
 }
